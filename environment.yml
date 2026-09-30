@@ -1,0 +1,12 @@
+name: ai-course
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - jupyterlab
+  - seaborn
+  - numpy
+  - matplotlib
+  - scikit-learn
+prefix: C:\Users\Goril\anaconda3\envs\ai-course
